@@ -1,0 +1,6 @@
+[package]
+name = "lite_io"
+version = "0.1.0"
+authors = ["Pierre Rouanet <pierre.rouanet@gmail.com>"]
+
+[dependencies]
